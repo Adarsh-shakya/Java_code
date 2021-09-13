@@ -12,8 +12,13 @@ public class Area_rect {
         result=l*b;
         System.out.println("Area of rectangle is " +result);
     }
+    public  void m2(){
+        result=2*(l+b);
+        System.out.println("Perimeter of rectangle= " +result);
+    }
     public static void main(String[] args) {
         Area_rect obj=new Area_rect();
         obj.m();
+        obj.m2();
     }
 }

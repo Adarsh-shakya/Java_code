@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Rectangle {
     private int length;
     private int breadth;
+
     public void setvalue(int l,int b){
         length=l;
         breadth=b;

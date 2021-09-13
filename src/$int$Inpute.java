@@ -13,3 +13,22 @@ public class $int$Inpute {
         System.out.println("sum of "+n1+" and "+n2+" is "+sum);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
